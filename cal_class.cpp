@@ -6,7 +6,6 @@ using namespace std;
 			double a , b ;
 	
 	
-	
 	void setdata()
 	{
 		cout<<"Enter First Operand"<<endl;
